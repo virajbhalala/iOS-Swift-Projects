@@ -36,18 +36,29 @@ class ViewController: UIViewController {
     @IBAction func PrimeButton(sender: AnyObject) {
         var PrimeInt = PrimeInput.text.toInt()
         var bool = true
-        for (var i = 2; i < PrimeInt; i++){
-
-            if PrimeInt! % i == 0 {
-                bool = false
+        if(PrimeInt != nil){
+            if(PrimeInt == 0 || PrimeInt == 1 || PrimeInt == 2 ){
+                bool = true
             }
+            else{
+                for (var i = 2; i < PrimeInt; i++){
 
-        }
+                        if PrimeInt! % i == 0 {
+                            bool = false
+                    }
+
+                }
+            }
         if bool == true {
             PrimeOutput.text = "Number is a prime number!"
         }
         else{
             PrimeOutput.text = "Number is not a prime number"
+        }
+        }
+        else
+        {
+            PrimeOutput.text = "Enter some number"
         }
         
     }
