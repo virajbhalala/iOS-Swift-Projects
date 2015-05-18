@@ -1,6 +1,6 @@
 //
-//  isItPrimeTests.swift
-//  isItPrimeTests
+//  IsItPrimeTests.swift
+//  IsItPrimeTests
 //
 //  Created by Viraj Bhalala on 1/8/15.
 //  Copyright (c) 2015 Viraj Bhalala. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class isItPrimeTests: XCTestCase {
+class IsItPrimeTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

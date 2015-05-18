@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "24FECFBB1A5F612600DE27BA"
-               BuildableName = "isItPrime.app"
-               BlueprintName = "isItPrime"
-               ReferencedContainer = "container:isItPrime.xcodeproj">
+               BlueprintIdentifier = "24FECF5F1A5F418800DE27BA"
+               BuildableName = "IsItPrime.app"
+               BlueprintName = "IsItPrime"
+               ReferencedContainer = "container:IsItPrime.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "24FECFD01A5F612600DE27BA"
-               BuildableName = "isItPrimeTests.xctest"
-               BlueprintName = "isItPrimeTests"
-               ReferencedContainer = "container:isItPrime.xcodeproj">
+               BlueprintIdentifier = "24FECF741A5F418800DE27BA"
+               BuildableName = "IsItPrimeTests.xctest"
+               BlueprintName = "IsItPrimeTests"
+               ReferencedContainer = "container:IsItPrime.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "24FECFD01A5F612600DE27BA"
-               BuildableName = "isItPrimeTests.xctest"
-               BlueprintName = "isItPrimeTests"
-               ReferencedContainer = "container:isItPrime.xcodeproj">
+               BlueprintIdentifier = "24FECF741A5F418800DE27BA"
+               BuildableName = "IsItPrimeTests.xctest"
+               BlueprintName = "IsItPrimeTests"
+               ReferencedContainer = "container:IsItPrime.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "24FECFBB1A5F612600DE27BA"
-            BuildableName = "isItPrime.app"
-            BlueprintName = "isItPrime"
-            ReferencedContainer = "container:isItPrime.xcodeproj">
+            BlueprintIdentifier = "24FECF5F1A5F418800DE27BA"
+            BuildableName = "IsItPrime.app"
+            BlueprintName = "IsItPrime"
+            ReferencedContainer = "container:IsItPrime.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "24FECFBB1A5F612600DE27BA"
-            BuildableName = "isItPrime.app"
-            BlueprintName = "isItPrime"
-            ReferencedContainer = "container:isItPrime.xcodeproj">
+            BlueprintIdentifier = "24FECF5F1A5F418800DE27BA"
+            BuildableName = "IsItPrime.app"
+            BlueprintName = "IsItPrime"
+            ReferencedContainer = "container:IsItPrime.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "24FECFBB1A5F612600DE27BA"
-            BuildableName = "isItPrime.app"
-            BlueprintName = "isItPrime"
-            ReferencedContainer = "container:isItPrime.xcodeproj">
+            BlueprintIdentifier = "24FECF5F1A5F418800DE27BA"
+            BuildableName = "IsItPrime.app"
+            BlueprintName = "IsItPrime"
+            ReferencedContainer = "container:IsItPrime.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
